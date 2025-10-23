@@ -1,0 +1,6 @@
+@Backend_Plicin_HostAddress = http://localhost:5115
+
+GET {{Backend_Plicin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
