@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\backend-plicin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\backend-plicin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\dtos\\restartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\dtos\\restartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Program.cs",
+              "RelativeDocumentMoniker": "Backend-Plicin\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Program.cs",
+              "RelativeToolTip": "Backend-Plicin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:46:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backend-Plicin",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Backend-Plicin.csproj",
+              "RelativeDocumentMoniker": "Backend-Plicin\\Backend-Plicin.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Backend-Plicin.csproj",
+              "RelativeToolTip": "Backend-Plicin\\Backend-Plicin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T17:43:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Backend-Plicin\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Backend-Plicin\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:45:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\DTOS\\RestartRequest.cs",
+              "RelativeDocumentMoniker": "Backend-Plicin\\DTOS\\RestartRequest.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\DTOS\\RestartRequest.cs",
+              "RelativeToolTip": "Backend-Plicin\\DTOS\\RestartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:44:47.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend-Plicin\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Backend-Plicin\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:43:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Backend-Plicin\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
+              "RelativeToolTip": "Backend-Plicin\\Models\\Player.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:42:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend-Plicin\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
+              "RelativeToolTip": "Backend-Plicin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T17:41:13.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/Backend-Plicin.props" />
+  <Import Project="..\buildMultiTargeting\Backend-Plicin.props" />
 </Project>
