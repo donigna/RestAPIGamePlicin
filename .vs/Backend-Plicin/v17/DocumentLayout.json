@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\",
+  "WorkspaceRootPath": "C:\\Kuliah\\RestAPIGamePlicin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\backend-plicin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\backend-plicin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\backend-plicin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\users\\lenovo\\documents\\restapigameplicin\\backend-plicin\\dtos\\restartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\dtos\\restartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\dtos\\restartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,24 +50,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Program.cs",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Program.cs",
               "RelativeDocumentMoniker": "Backend-Plicin\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Program.cs",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Program.cs",
               "RelativeToolTip": "Backend-Plicin\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T17:46:45.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Backend-Plicin",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Backend-Plicin.csproj",
+              "DocumentIndex": 0,
+              "Title": "Backend-Plicin.csproj",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Backend-Plicin.csproj",
               "RelativeDocumentMoniker": "Backend-Plicin\\Backend-Plicin.csproj",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Backend-Plicin.csproj",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Backend-Plicin.csproj",
               "RelativeToolTip": "Backend-Plicin\\Backend-Plicin.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -76,24 +76,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
               "RelativeDocumentMoniker": "Backend-Plicin\\Controllers\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
               "RelativeToolTip": "Backend-Plicin\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T17:45:34.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "RestartRequest.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\DTOS\\RestartRequest.cs",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\DTOS\\RestartRequest.cs",
               "RelativeDocumentMoniker": "Backend-Plicin\\DTOS\\RestartRequest.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\DTOS\\RestartRequest.cs",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\DTOS\\RestartRequest.cs",
               "RelativeToolTip": "Backend-Plicin\\DTOS\\RestartRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Backend-Plicin\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Backend-Plicin\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,24 +115,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Backend-Plicin\\Models\\Player.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
               "RelativeToolTip": "Backend-Plicin\\Models\\Player.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T17:42:18.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
               "RelativeDocumentMoniker": "Backend-Plicin\\appsettings.json",
-              "ToolTip": "C:\\Users\\lenovo\\Documents\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
               "RelativeToolTip": "Backend-Plicin\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

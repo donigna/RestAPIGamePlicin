@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backend-Plicin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a9ac1ba2c7b041fe5573703f283a593d7b54f0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8159dfaf6c4ccb3680816c2b2da3b052c19fe4a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backend-Plicin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backend-Plicin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

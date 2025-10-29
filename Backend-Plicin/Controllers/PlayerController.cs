@@ -35,11 +35,14 @@ namespace Backend_Plicin.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdatePlayer(int id, Player updatedPlayer)
+        public async Task<IActionResult> UpdatePlayer(int id,[FromBody] Player updatedPlayer)
         {
             var player = await _context.Players.FindAsync(id);
             if (player == null)
                 return NotFound();
+
+            if (id != updatedPlayer.Id)
+                return BadRequest("ID di URL dan body tidak sama.");
 
             player.Uang = updatedPlayer.Uang;
             player.Level = updatedPlayer.Level;
