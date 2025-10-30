@@ -9,35 +9,46 @@ namespace Backend_Plicin.Controllers
     [Route("api/[controller]")]
     public class PlayerController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly AppDbContext _db;
 
-        public PlayerController(AppDbContext context)
-        {
-            _context = context;
-        }
+        public PlayerController(AppDbContext db) => _db = db;
 
+
+        // Mendapatkan seluruh pemain
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Player>>> GetPlayers()
         {
-            return await _context.Players.ToListAsync();
+            return await _db.Players.ToListAsync();
         }
 
+        // Mendapatkan pemain dengan urutan uang tertinggi
+        [HttpGet("top")]
+        public async Task<ActionResult<IEnumerable<Player>>> GetTopPlayers()
+        {
+            var topPlayers = await _db.Players
+                .OrderByDescending(p => p.Uang)
+                .Take(10)
+                .ToListAsync();
+            return topPlayers;
+        }
+
+        // Membuat pemain baru
         [HttpPost]
         public async Task<ActionResult<Player>> CreatePlayer(Player player)
         {
             player.CreatedAt = DateTime.UtcNow;
             player.UpdatedAt = DateTime.UtcNow;
 
-            _context.Players.Add(player);
-            await _context.SaveChangesAsync();
+            _db.Players.Add(player);
+            await _db.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetPlayers), new { id = player.Id }, player);
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{id:int}")]
         public async Task<IActionResult> UpdatePlayer(int id,[FromBody] Player updatedPlayer)
         {
-            var player = await _context.Players.FindAsync(id);
+            var player = await _db.Players.FindAsync(id);
             if (player == null)
                 return NotFound();
 
@@ -49,14 +60,14 @@ namespace Backend_Plicin.Controllers
             player.GameCount = updatedPlayer.GameCount;
             player.UpdatedAt = DateTime.UtcNow;
 
-            await _context.SaveChangesAsync();
+            await _db.SaveChangesAsync();
             return NoContent();
         }
 
-        [HttpPost("restart/{id}")]
+        [HttpPost("restart/{id:int}")]
         public async Task<IActionResult> RestartGame(int id)
         {
-            var player = await _context.Players.FindAsync(id);
+            var player = await _db.Players.FindAsync(id);
             if (player == null)
                 return NotFound();
 
@@ -64,8 +75,19 @@ namespace Backend_Plicin.Controllers
             player.Uang = 0;
             player.UpdatedAt = DateTime.UtcNow;
 
-            await _context.SaveChangesAsync();
+            await _db.SaveChangesAsync();
             return Ok(player);
+        }
+
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> DeletePlayer(int id)
+        {
+            var player = await _db.Players.FindAsync(id);
+            if (player == null)
+                return NotFound();
+            _db.Players.Remove(player);
+            await _db.SaveChangesAsync();
+            return NoContent();
         }
     }
 }
