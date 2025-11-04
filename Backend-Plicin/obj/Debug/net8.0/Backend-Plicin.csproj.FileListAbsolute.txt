@@ -285,7 +285,6 @@ C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\staticwebassets.buil
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\staticwebassets.development.json
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\Backend-.766C4EB9.Up2Date
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\Backend-Plicin.dll
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\refint\Backend-Plicin.dll
