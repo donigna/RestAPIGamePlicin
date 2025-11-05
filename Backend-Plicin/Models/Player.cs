@@ -12,7 +12,7 @@ namespace Backend_Plicin.Models
         public string PlayerName { get; set; } = string.Empty;
 
         [Required]
-        public int Uang { get; set; }
+        public float Uang { get; set; }
 
         [Required]
         public int Level { get; set; }

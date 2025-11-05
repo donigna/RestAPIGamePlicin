@@ -291,3 +291,4 @@ C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\refint\Backend-Plici
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\Backend-Plicin.pdb
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\Backend-Plicin.genruntimeconfig.cache
 C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\ref\Backend-Plicin.dll
+C:\Kuliah\RestAPIGamePlicin\Backend-Plicin\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

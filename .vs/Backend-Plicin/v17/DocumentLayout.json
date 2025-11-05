@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Kuliah\\RestAPIGamePlicin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|solutionrelative:backend-plicin\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F664B762-C0B1-465D-B89B-946F7C67D7CF}|Backend-Plicin\\Backend-Plicin.csproj|c:\\kuliah\\restapigameplicin\\backend-plicin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,15 +50,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
               "RelativeDocumentMoniker": "Backend-Plicin\\Controllers\\PlayerController.cs",
               "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Controllers\\PlayerController.cs",
               "RelativeToolTip": "Backend-Plicin\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T17:45:34.42Z"
+              "WhenOpened": "2025-10-28T17:45:34.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,6 +87,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Backend-Plicin\\Models\\Player.cs",
+              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
+              "RelativeToolTip": "Backend-Plicin\\Models\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:42:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\appsettings.json",
@@ -95,19 +109,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-28T17:41:13.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
-              "RelativeDocumentMoniker": "Backend-Plicin\\Models\\Player.cs",
-              "ToolTip": "C:\\Kuliah\\RestAPIGamePlicin\\Backend-Plicin\\Models\\Player.cs",
-              "RelativeToolTip": "Backend-Plicin\\Models\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T17:42:18.26Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

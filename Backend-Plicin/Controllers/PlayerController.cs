@@ -27,7 +27,6 @@ namespace Backend_Plicin.Controllers
         {
             var topPlayers = await _db.Players
                 .OrderByDescending(p => p.Uang)
-                .Take(10)
                 .ToListAsync();
             return topPlayers;
         }
